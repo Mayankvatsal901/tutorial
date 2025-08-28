@@ -1,3 +1,4 @@
 # tutorial
 <br>
-Aurhor -mayank vatsal 
+Author -mayank vatsal 
+
